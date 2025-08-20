@@ -1,8 +1,8 @@
 /*
 https://github.com/josiasgomes/projeto_final.git
-
-
-
+git commit -m "primeiro commit: projeto inicial do Firebase"
+git remote add origin
+git push origin master
 */
 
 
